@@ -1,4 +1,5 @@
-# A-Level-Computer-Science-Project-OCR
+# A-Level Computer Science Project OCR
+Hey there. This is my GitHub which I am using to store all of my program code, pseudo code and the program itself for each sprint.
 This contains all my 6 sprints with the code, pseudo code and program code itself. It will include links to video proof but mainly is a list of resources I can use to link back to.
 
 # What it contains
