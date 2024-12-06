@@ -8,3 +8,6 @@ from tech with tim and as well as using code from clear code to create my game.
  - Each Sprint folder will contain the program code, pseudo code and the program itself in a zip folder.
 
 This will be used as an online resource to hold and link back to my code etc.
+
+# My Results
+For anyone wondering I achieved 59/70 for my Computer Science Coursework which is on the boundary for an A*.
