@@ -1,0 +1,6 @@
+logging==0.4.9.6
+pyasn1==0.6.1
+pycryptodome==3.21.0
+pygame==2.6.1
+rsa==4.9
+sockets==1.0.0
