@@ -4,6 +4,9 @@ It will include links to video proof but mainly is a list of resources I can use
 Feel free to take from my project as this project would not be possible without further developing a client-server connection
 from tech with tim and as well as using code from clear code to create my game.
 
+# Modules to be installed
+- pip install -r requirements.txt
+
 # What it contains
  - Each Sprint folder will contain the program code, pseudo code and the program itself in a zip folder.
 
