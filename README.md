@@ -10,4 +10,4 @@ from tech with tim and as well as using code from clear code to create my game.
 This will be used as an online resource to hold and link back to my code etc.
 
 # My Results
-For anyone wondering I achieved 59/70 for my Computer Science Coursework which is on the boundary for an A*.
+For anyone wondering I achieved 59/70 for my Computer Science Coursework which is an A; and a few marks off an A*.
